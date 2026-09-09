@@ -1,5 +1,7 @@
 # ✂️ Slicr — HD Carousel Splitter
 
+<img width="1366" height="1391" alt="Slicr-HD-Carousel-Splitter-by-Aguphia" src="https://github.com/user-attachments/assets/8e4c5b88-455c-422d-b5e7-e993121e77b4" />
+
 **Slicr** adalah aplikasi pemotong gambar berbasis web yang dirancang untuk memecah gambar resolusi tinggi menjadi beberapa bagian (slide) tanpa mengurangi kualitas (tanpa resampling/resize)[cite: 3, 4]. Sangat ideal untuk pembuatan konten carousel Instagram, pemotongan grid visual, maupun kebutuhan layout desain banner[cite: 2, 3].
 
 Aplikasi ini mengusung konsep **Sekali Pakai (Stateless Processing)**: semua proses pemotongan dilakukan langsung di memori server dan dikembalikan ke browser tanpa ada satu pun file yang disimpan di disk atau database[cite: 2, 3, 4].
